@@ -1,4 +1,4 @@
-[![@timoransky's Holopin board](https://holopin.io/api/user/board?user=timoransky)](https://holopin.io/@timoransky)
+[![An image of @timoransky's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/timoransky)](https://holopin.io/@timoransky)
 
 <!--
 **timoransky/timoransky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
